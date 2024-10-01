@@ -30,7 +30,7 @@ dependencies = [
     "numpy",
     "scipy",
 ]
-version = "0.12.93"
+version = "0.12.94"
 description = ""
 readme="README.md"
 classifiers=[
@@ -45,6 +45,8 @@ classifiers=[
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
 ]
 license = {file = "LICENSE"}
 
