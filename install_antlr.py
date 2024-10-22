@@ -6,7 +6,7 @@ from subprocess import call
 from subprocess import check_call
 
 
-VERSION = "4.13.1"
+VERSION = "4.13.2"
 ANTLR = "https://www.antlr.org/download/antlr-{}-complete.jar".format(VERSION)
 
 
